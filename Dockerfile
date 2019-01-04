@@ -1,2 +1,2 @@
-FROM gcr.io/google-containers/coredns:1.3.0
+FROM gcr.io/google-containers/coredns:1.2.6
 MAINTAINER luutqf
