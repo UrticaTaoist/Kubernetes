@@ -1,2 +1,2 @@
-FROM gcr.io/google-containers/pause-amd64:v1.13.0 
+FROM gcr.io/google-containers/pause-amd64:3.1
 MAINTAINER luutqf
