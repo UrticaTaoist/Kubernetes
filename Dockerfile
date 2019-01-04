@@ -1,2 +1,2 @@
-FROM gcr.io/google-containers/k8s-dns-kube-dns-amd64:1.15.0
+FROM gcr.io/google-containers/k8s-dns-dnsmasq-nanny-amd64:1.15.0
 MAINTAINER luutqf
