@@ -1,2 +1,2 @@
-FROM gcr.io/google-containers/coredns:1.3.0
+FROM gcr.io/google-containers/kubernetes-dashboard-amd64:v1.10.1
 MAINTAINER luutqf
