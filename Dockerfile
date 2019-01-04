@@ -1,2 +1,2 @@
-FROM gcr.io/google-containers/kubernetes-dashboard-amd64:v1.10.1
+FROM gcr.io/google-containers/k8s-dns-sidecar-amd64:1.15.0
 MAINTAINER luutqf
