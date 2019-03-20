@@ -1,2 +1,2 @@
-FROM gcr.io/kubernetes-helm/tiller:v2.12.2
+FROM k8s.gcr.io/defaultbackend:1.4
 MAINTAINER luutqf
