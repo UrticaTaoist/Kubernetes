@@ -1,2 +1,2 @@
-FROM gcr.io/kubernetes-helm/tiller:v2.13.1
+FROM gcr.io/kubernetes-helm/tiller:v2.16.5
 MAINTAINER luutqf
